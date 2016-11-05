@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xdShop-manager.iml" filepath="$PROJECT_DIR$/xdShop-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xdShop-manager-mapper/xdShop-manager-mapper.iml" filepath="$PROJECT_DIR$/xdShop-manager-mapper/xdShop-manager-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xdShop-manager-pojo/xdShop-manager-pojo.iml" filepath="$PROJECT_DIR$/xdShop-manager-pojo/xdShop-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xdShop-manager-service/xdShop-manager-service.iml" filepath="$PROJECT_DIR$/xdShop-manager-service/xdShop-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xdShop-manager-web/xdShop-manager-web.iml" filepath="$PROJECT_DIR$/xdShop-manager-web/xdShop-manager-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+com\xdShop\mapper\TbOrderMapper.class
+com\xdShop\mapper\TbItemMapper.class
+com\xdShop\mapper\TbItemCatMapper.class
+com\xdShop\mapper\TbItemParamItemMapper.class
+com\xdShop\mapper\TbItemParamMapper.class
+com\xdShop\mapper\TbItemDescMapper.class
+com\xdShop\mapper\TbUserMapper.class
+com\xdShop\mapper\TbContentCategoryMapper.class
+com\xdShop\mapper\TbOrderItemMapper.class
+com\xdShop\mapper\TbOrderShippingMapper.class
+com\xdShop\mapper\TbContentMapper.class

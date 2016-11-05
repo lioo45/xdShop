@@ -1,0 +1,10 @@
+com\xdShop\service\impl\PictrueServiceImpl.class
+com\xdShop\service\ItemParamItemService.class
+com\xdShop\service\ItemParamService.class
+com\xdShop\service\PictureService.class
+com\xdShop\service\impl\ItemCatServiceImpl.class
+com\xdShop\service\ItemCatService.class
+com\xdShop\service\impl\ItemServiceImpl.class
+com\xdShop\service\ItemService.class
+com\xdShop\service\impl\ItemParamItemServiceImpl.class
+com\xdShop\service\impl\ItemParamServiceImpl.class
